@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>VENTASJOSEMARCELO</title>
+	<title>DULCINORT</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -15,11 +15,11 @@
 
 </head>
 
-<body ng-app='app' style="background-color: #ebebeb;" ng-controller='ctrMan' ng-cloack>
+<body ng-app='app' style="background-color: #34a5ad;" ng-controller='ctrMan' ng-cloack>
 
 	<div id="loader"></div>
 	<div id="ctnMan" style="visibility: hidden;">
-		<div class="w3-row {{clt}} fxd">
+		<div class="w6-row {{clt}} fxd">
 			<div class="w3-col w3-left w3-container bar-height" style="width:80px">
 				<img id="lg" src="" class="w3-round bar-logo" alt="">
 			</div>
@@ -94,7 +94,7 @@
 		<div class="w3-container spc50">
 
 			<div ng-init='configPages()' class="w3-row-padding ctnItm">
-				<div class="w3-col s12 m6 l4"
+				<div class="w3-col s6 m3 4"
 					ng-repeat='itm in itmsCur | orderBy:sort| startFromGrid: currentPage * pageSize | limitTo: pageSize '>
 					<div class="w3-panel w3-card w3-white mrgItm w3-merriweather">
 						<div ng-hide="!img" class="w3-container w3-margin-bottom w3-center" style="height: 260px">
@@ -181,7 +181,7 @@
 								<img ng-hide="{{itm.l=='null'?true:false}}" src="{{itm.l+'.jpg'}}" class="w3-round" style="width:90%;">
 
 								<i ng-hide="{{itm.l=='null'?false:true}}" class="fa fa-image w3-jumbo w3-round" style="width:90%;"></i>
-								
+
 
 							</div>
 							<div class="w3-col s9 m10 l10">

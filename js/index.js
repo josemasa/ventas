@@ -397,5 +397,30 @@ var data = /*#d4t4#*/ {
     "v": 1650,
     "z": 10
   },
-  { "c": 1, "d": "LIVERPOOL AZUL", "i": 5, "k": "77969682", "l": "img/img_5", "p": "$1.950,00", "u": 1, "v": 1950, "z": 10 }, { "c": 1, "d": "LIVERPOOL ROJO", "i": 2, "k": "Sin Clave", "l": "img/img_2", "p": "$1.950,00", "u": 1, "v": 1950, "z": 10 }, { "c": 1, "d": "LIVERPOOL VERDE", "i": 4, "k": "Sin Clave", "l": "img/img_4", "p": "$1.950,00", "u": 1, "v": 1950, "z": 10 }, { "c": 1, "d": "MILENIO ROJO", "i": 1, "k": "Sin Clave", "l": "img/img_1", "p": "$1.800,00", "u": 1, "v": 1800, "z": 10 }, { "c": 1, "d": "MILENIO VERDE", "i": 3, "k": "Sin Clave", "l": "img/img_3", "p": "$1.800,00", "u": 1, "v": 1800, "z": 10 }, { "c": 1, "d": "PIER", "i": 7, "k": "Sin Clave", "l": "img/img_7", "p": "$2.300,00", "u": 1, "v": 2300, "z": 10 }], "ctg": [{ "i": 1, "n": "CIGARRILLOS" }], "und": [{ "i": 1, "n": "PAQUETES" }], "ngc": "MisNegocios", "tel2": "+543816163841", "cor2": "", "dir2": "", "alf": "Alfabeto", "myp": "Mayor Precio", "mnp": "Menor Precio", "ctgs": "Categoría", "orp": "Ordenar Por", "bsc": "Buscar", "crt": true, "nam": "Nombre", "sct": "Comprar Ahora", "ernw": "Error al conectarse al servidor, compruebe su conexión a internet e intente nuevamente.", "img": true, "uni": false, "cla": false, "wha": true, "clo": "Cerrar", "nxt": "Siguiente", "prv": "Anterior", "sin": "Sin Información", "clt": "w3-black", "tmp": 1678417668662, "lg": "logo"
+  {
+    "c": 1,
+    "d": "LIVERPOOL AZUL",
+    "i": 5,
+    "k": "77969682",
+    "l": "img/img_5",
+    "p": "$1.950,00",
+    "u": 1,
+    "v": 1950,
+    "z": 10
+  }
+    , {
+    "c": 1,
+    "d": "LIVERPOOL ROJO",
+    "i": 2,
+    "k": "Sin Clave",
+    "l": "img/img_2",
+    "p": "$1.950,00",
+    "u": 1,
+    "v": 1950,
+    "z": 10
+  }
+    , { "c": 1, "d": "LIVERPOOL VERDE", "i": 4, "k": "Sin Clave", "l": "img/img_4", "p": "$1.950,00", "u": 1, "v": 1950, "z": 10 }
+    , { "c": 1, "d": "MILENIO ROJO", "i": 1, "k": "Sin Clave", "l": "img/img_1", "p": "$1.800,00", "u": 1, "v": 1800, "z": 10 }
+    , { "c": 1, "d": "MILENIO VERDE", "i": 3, "k": "Sin Clave", "l": "img/img_3", "p": "$1.800,00", "u": 1, "v": 1800, "z": 10 }
+    , { "c": 1, "d": "PIER", "i": 7, "k": "Sin Clave", "l": "img/img_7", "p": "$2.300,00", "u": 1, "v": 2300, "z": 10 }], "ctg": [{ "i": 1, "n": "CIGARRILLOS" }], "und": [{ "i": 1, "n": "PAQUETES" }], "ngc": "DISTRIBUCIONES OLAYA", "tel2": "+543816163841", "cor2": "", "dir2": "", "alf": "Alfabeto", "myp": "Mayor Precio", "mnp": "Menor Precio", "ctgs": "Categoría", "orp": "Ordenar Por", "bsc": "Buscar", "crt": true, "nam": "Nombre", "sct": "Comprar Ahora", "ernw": "Error al conectarse al servidor, compruebe su conexión a internet e intente nuevamente.", "img": true, "uni": false, "cla": false, "wha": true, "clo": "Cerrar", "nxt": "Siguiente", "prv": "Anterior", "sin": "Sin Información", "clt": "w3-black", "tmp": 1678417668662, "lg": "logo"
 } /*#d4t4#*/;
