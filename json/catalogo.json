@@ -1,0 +1,2588 @@
+[
+    {
+     "IDPRODUCTO": 1104,
+     "DESCRIPCIO": "ENCENDEDOR CANDELA",
+     "IDRUBRO": 7,
+     "Precio": 7431.019948
+    },
+    {
+     "IDPRODUCTO": 1202,
+     "DESCRIPCIO": "PRESTOBARBA PLUS",
+     "IDRUBRO": 1,
+     "Precio": 1137.040025
+    },
+    {
+     "IDPRODUCTO": 1403,
+     "DESCRIPCIO": "ECCOLE 9 Gr.",
+     "IDRUBRO": 11,
+     "Precio": 2903.39258
+    },
+    {
+     "IDPRODUCTO": 1401,
+     "DESCRIPCIO": "LA GOTITA",
+     "IDRUBRO": 11,
+     "Precio": 1275.5100049999999
+    },
+    {
+     "IDPRODUCTO": 1402,
+     "DESCRIPCIO": "POXI RAN",
+     "IDRUBRO": 11,
+     "Precio": 2219.582618
+    },
+    {
+     "IDPRODUCTO": 1702,
+     "DESCRIPCIO": "ACOND. PANTENE SACH. (12)",
+     "IDRUBRO": 12,
+     "Precio": 51.972041
+    },
+    {
+     "IDPRODUCTO": 1701,
+     "DESCRIPCIO": "SHAMPOO PANTENE SACHET (12)",
+     "IDRUBRO": 12,
+     "Precio": 51.972041
+    },
+    {
+     "IDPRODUCTO": 401,
+     "DESCRIPCIO": "ACTRON 400 (10)",
+     "IDRUBRO": 8,
+     "Precio": 2013.0000440000001
+    },
+    {
+     "IDPRODUCTO": 402,
+     "DESCRIPCIO": "ACTRON 600 (10)",
+     "IDRUBRO": 8,
+     "Precio": 4489.599972
+    },
+    {
+     "IDPRODUCTO": 403,
+     "DESCRIPCIO": "ACTRON MUJER (10)",
+     "IDRUBRO": 8,
+     "Precio": 1866.599966
+    },
+    {
+     "IDPRODUCTO": 404,
+     "DESCRIPCIO": "ACTRON PLUS (8)",
+     "IDRUBRO": 8,
+     "Precio": 2185.0200569999997
+    },
+    {
+     "IDPRODUCTO": 472,
+     "DESCRIPCIO": "AGUA OXIGENADA 10 VOL.",
+     "IDRUBRO": 8,
+     "Precio": 403.819955
+    },
+    {
+     "IDPRODUCTO": 405,
+     "DESCRIPCIO": "ALIKAL (30)",
+     "IDRUBRO": 8,
+     "Precio": 387.96000100000003
+    },
+    {
+     "IDPRODUCTO": 406,
+     "DESCRIPCIO": "AMOXICILINA (8)",
+     "IDRUBRO": 8,
+     "Precio": 1256.6000040000001
+    },
+    {
+     "IDPRODUCTO": 407,
+     "DESCRIPCIO": "AMOXIDAL 500 (8)",
+     "IDRUBRO": 8,
+     "Precio": 1628.700051
+    },
+    {
+     "IDPRODUCTO": 408,
+     "DESCRIPCIO": "ANAFLEX (8)",
+     "IDRUBRO": 8,
+     "Precio": 1555.500012
+    },
+    {
+     "IDPRODUCTO": 480,
+     "DESCRIPCIO": "ASPIRINA PREVENT (10)",
+     "IDRUBRO": 8,
+     "Precio": 548.99999
+    },
+    {
+     "IDPRODUCTO": 409,
+     "DESCRIPCIO": "ASPIRINETAS (14)",
+     "IDRUBRO": 8,
+     "Precio": 489.21994
+    },
+    {
+     "IDPRODUCTO": 410,
+     "DESCRIPCIO": "AZITROMICINA 500 (3)",
+     "IDRUBRO": 8,
+     "Precio": 1476.2
+    },
+    {
+     "IDPRODUCTO": 414,
+     "DESCRIPCIO": "BAYASPIRINA (10)",
+     "IDRUBRO": 8,
+     "Precio": 1010.1600299999999
+    },
+    {
+     "IDPRODUCTO": 413,
+     "DESCRIPCIO": "BAYASPIRINA C CALIENTE (24)",
+     "IDRUBRO": 8,
+     "Precio": 606.3399539999999
+    },
+    {
+     "IDPRODUCTO": 412,
+     "DESCRIPCIO": "BAYASPIRINA C LIMON (24)",
+     "IDRUBRO": 8,
+     "Precio": 428.219968
+    },
+    {
+     "IDPRODUCTO": 411,
+     "DESCRIPCIO": "BAYASPIRINA FORTE (10)",
+     "IDRUBRO": 8,
+     "Precio": 1348.099962
+    },
+    {
+     "IDPRODUCTO": 476,
+     "DESCRIPCIO": "BICARBONATO DUMBA  20 Gr",
+     "IDRUBRO": 8,
+     "Precio": 97.60005199999999
+    },
+    {
+     "IDPRODUCTO": 415,
+     "DESCRIPCIO": "BILETAN ENZIMATICO (10)",
+     "IDRUBRO": 8,
+     "Precio": 2500.999941
+    },
+    {
+     "IDPRODUCTO": 416,
+     "DESCRIPCIO": "BUSCAPINA COMP. (10)",
+     "IDRUBRO": 8,
+     "Precio": 4056.499953
+    },
+    {
+     "IDPRODUCTO": 417,
+     "DESCRIPCIO": "BUSCAPINA FEM (6)",
+     "IDRUBRO": 8,
+     "Precio": 2132.560023
+    },
+    {
+     "IDPRODUCTO": 418,
+     "DESCRIPCIO": "BUSCAPINA PERLAS (10)",
+     "IDRUBRO": 8,
+     "Precio": 2913.3599549999994
+    },
+    {
+     "IDPRODUCTO": 420,
+     "DESCRIPCIO": "CAFIASPIRINA (10)",
+     "IDRUBRO": 8,
+     "Precio": 1187.059973
+    },
+    {
+     "IDPRODUCTO": 419,
+     "DESCRIPCIO": "CAFIASPIRINA PLUS (10)",
+     "IDRUBRO": 8,
+     "Precio": 1515.240045
+    },
+    {
+     "IDPRODUCTO": 421,
+     "DESCRIPCIO": "CARBON + ANTIBIOTICO (10)",
+     "IDRUBRO": 8,
+     "Precio": 3104.900051
+    },
+    {
+     "IDPRODUCTO": 422,
+     "DESCRIPCIO": "CARBON ACTIVADO (10)",
+     "IDRUBRO": 8,
+     "Precio": 689.299974
+    },
+    {
+     "IDPRODUCTO": 423,
+     "DESCRIPCIO": "CEFALEXINA 500 (8)",
+     "IDRUBRO": 8,
+     "Precio": 1415.200028
+    },
+    {
+     "IDPRODUCTO": 424,
+     "DESCRIPCIO": "CHICLE LAXANTE (6)",
+     "IDRUBRO": 8,
+     "Precio": 2034.959971
+    },
+    {
+     "IDPRODUCTO": 483,
+     "DESCRIPCIO": "CINTA  HIPOALERGENICA",
+     "IDRUBRO": 8,
+     "Precio": 1440.819963
+    },
+    {
+     "IDPRODUCTO": 425,
+     "DESCRIPCIO": "CIPROFLOXACINA 500 (10)",
+     "IDRUBRO": 8,
+     "Precio": 1067.499994
+    },
+    {
+     "IDPRODUCTO": 426,
+     "DESCRIPCIO": "CURINFLAM (15)",
+     "IDRUBRO": 8,
+     "Precio": 1525.000026
+    },
+    {
+     "IDPRODUCTO": 427,
+     "DESCRIPCIO": "CURITAS (8)",
+     "IDRUBRO": 8,
+     "Precio": 365.999953
+    },
+    {
+     "IDPRODUCTO": 428,
+     "DESCRIPCIO": "DEXALERGIN (20)",
+     "IDRUBRO": 8,
+     "Precio": 6240.299967
+    },
+    {
+     "IDPRODUCTO": 487,
+     "DESCRIPCIO": "DEXALERGIN XP",
+     "IDRUBRO": 8,
+     "Precio": 3781.999958
+    },
+    {
+     "IDPRODUCTO": 429,
+     "DESCRIPCIO": "DEXAMETASONA (10)",
+     "IDRUBRO": 8,
+     "Precio": 829.599958
+    },
+    {
+     "IDPRODUCTO": 431,
+     "DESCRIPCIO": "DICLOFENAX (10)",
+     "IDRUBRO": 8,
+     "Precio": 567.30003
+    },
+    {
+     "IDPRODUCTO": 430,
+     "DESCRIPCIO": "DICLOFENAX FLEX + PIRID. (10)",
+     "IDRUBRO": 8,
+     "Precio": 683.200001
+    },
+    {
+     "IDPRODUCTO": 432,
+     "DESCRIPCIO": "ENALAPRIL (10)",
+     "IDRUBRO": 8,
+     "Precio": 365.999953
+    },
+    {
+     "IDPRODUCTO": 475,
+     "DESCRIPCIO": "FLEX B 12   (10)",
+     "IDRUBRO": 8,
+     "Precio": 5514.400034
+    },
+    {
+     "IDPRODUCTO": 433,
+     "DESCRIPCIO": "FRASCOS ESTERILIZADOS",
+     "IDRUBRO": 8,
+     "Precio": 268.400022
+    },
+    {
+     "IDPRODUCTO": 481,
+     "DESCRIPCIO": "FUROSEMIDA 40MG. (10)",
+     "IDRUBRO": 8,
+     "Precio": 732.000027
+    },
+    {
+     "IDPRODUCTO": 434,
+     "DESCRIPCIO": "GARGALETAS (9)",
+     "IDRUBRO": 8,
+     "Precio": 2702.300018
+    },
+    {
+     "IDPRODUCTO": 435,
+     "DESCRIPCIO": "GASA (10)",
+     "IDRUBRO": 8,
+     "Precio": 219.59999599999998
+    },
+    {
+     "IDPRODUCTO": 436,
+     "DESCRIPCIO": "GENIOL X 1 GR. (8)",
+     "IDRUBRO": 8,
+     "Precio": 1128.4999659999999
+    },
+    {
+     "IDPRODUCTO": 478,
+     "DESCRIPCIO": "IBU EVANOL MAX (10)",
+     "IDRUBRO": 8,
+     "Precio": 2099.6199509999997
+    },
+    {
+     "IDPRODUCTO": 437,
+     "DESCRIPCIO": "IBU EVANOL R.A. (10)",
+     "IDRUBRO": 8,
+     "Precio": 1335.900016
+    },
+    {
+     "IDPRODUCTO": 438,
+     "DESCRIPCIO": "IBUPROFENO 400 (10)",
+     "IDRUBRO": 8,
+     "Precio": 609.999962
+    },
+    {
+     "IDPRODUCTO": 439,
+     "DESCRIPCIO": "IBUPROFENO 600 (10)",
+     "IDRUBRO": 8,
+     "Precio": 780.800053
+    },
+    {
+     "IDPRODUCTO": 441,
+     "DESCRIPCIO": "IBUPROFENO JARABE 2",
+     "IDRUBRO": 8,
+     "Precio": 1311.5000029999999
+    },
+    {
+     "IDPRODUCTO": 440,
+     "DESCRIPCIO": "IBUPROFENO JARABE 4",
+     "IDRUBRO": 8,
+     "Precio": 1341.999989
+    },
+    {
+     "IDPRODUCTO": 442,
+     "DESCRIPCIO": "JERINGA 10 ML.",
+     "IDRUBRO": 8,
+     "Precio": 207.40005
+    },
+    {
+     "IDPRODUCTO": 443,
+     "DESCRIPCIO": "JERINGA 5 ML.",
+     "IDRUBRO": 8,
+     "Precio": 158.600024
+    },
+    {
+     "IDPRODUCTO": 444,
+     "DESCRIPCIO": "KETOROLAC 20 MG. (10)",
+     "IDRUBRO": 8,
+     "Precio": 451.400059
+    },
+    {
+     "IDPRODUCTO": 445,
+     "DESCRIPCIO": "LOPERAMIDA 2 MG., (10)",
+     "IDRUBRO": 8,
+     "Precio": 384.299993
+    },
+    {
+     "IDPRODUCTO": 446,
+     "DESCRIPCIO": "LORATADINA (10)",
+     "IDRUBRO": 8,
+     "Precio": 396.50005999999996
+    },
+    {
+     "IDPRODUCTO": 447,
+     "DESCRIPCIO": "MEJORAL NINOS  80 MG (10)",
+     "IDRUBRO": 8,
+     "Precio": 1262.699977
+    },
+    {
+     "IDPRODUCTO": 477,
+     "DESCRIPCIO": "MICTASOL AZUL (10)",
+     "IDRUBRO": 8,
+     "Precio": 3111.000024
+    },
+    {
+     "IDPRODUCTO": 448,
+     "DESCRIPCIO": "MIGRAL COMP. (10)",
+     "IDRUBRO": 8,
+     "Precio": 2307.020001
+    },
+    {
+     "IDPRODUCTO": 449,
+     "DESCRIPCIO": "NEXT GRIP (10)",
+     "IDRUBRO": 8,
+     "Precio": 3287.899967
+    },
+    {
+     "IDPRODUCTO": 450,
+     "DESCRIPCIO": "NOVALGINA (10)",
+     "IDRUBRO": 8,
+     "Precio": 3731.9800099999998
+    },
+    {
+     "IDPRODUCTO": 451,
+     "DESCRIPCIO": "OMEPRAZOL  20 MG. (15)",
+     "IDRUBRO": 8,
+     "Precio": 640.499948
+    },
+    {
+     "IDPRODUCTO": 473,
+     "DESCRIPCIO": "PARACETAMOL BAYER 10 U.",
+     "IDRUBRO": 8,
+     "Precio": 1239.520007
+    },
+    {
+     "IDPRODUCTO": 470,
+     "DESCRIPCIO": "PASTILLA DIA DESPUES",
+     "IDRUBRO": 8,
+     "Precio": 1037.000008
+    },
+    {
+     "IDPRODUCTO": 482,
+     "DESCRIPCIO": "PENICILINA  1.5 MILL (6)",
+     "IDRUBRO": 8,
+     "Precio": 2579.9999940000002
+    },
+    {
+     "IDPRODUCTO": 452,
+     "DESCRIPCIO": "PENICILINA 1 MILL. (6)",
+     "IDRUBRO": 8,
+     "Precio": 1854.4000199999998
+    },
+    {
+     "IDPRODUCTO": 453,
+     "DESCRIPCIO": "QURA PLUS (10)",
+     "IDRUBRO": 8,
+     "Precio": 1934.919954
+    },
+    {
+     "IDPRODUCTO": 455,
+     "DESCRIPCIO": "REFRIANEX COMPUESTO (20)",
+     "IDRUBRO": 8,
+     "Precio": 1727.520025
+    },
+    {
+     "IDPRODUCTO": 456,
+     "DESCRIPCIO": "SERTAL COMP. (10)",
+     "IDRUBRO": 8,
+     "Precio": 3855.1999969999997
+    },
+    {
+     "IDPRODUCTO": 457,
+     "DESCRIPCIO": "SERTAL PERLAS (10)",
+     "IDRUBRO": 8,
+     "Precio": 2812.100016
+    },
+    {
+     "IDPRODUCTO": 458,
+     "DESCRIPCIO": "TAFIROL 1 GR",
+     "IDRUBRO": 8,
+     "Precio": 1215.119994
+    },
+    {
+     "IDPRODUCTO": 459,
+     "DESCRIPCIO": "TAFIROL 500 (10)",
+     "IDRUBRO": 8,
+     "Precio": 1616.4999839999998
+    },
+    {
+     "IDPRODUCTO": 460,
+     "DESCRIPCIO": "TAFIROL FLEX (10)",
+     "IDRUBRO": 8,
+     "Precio": 2315.56006
+    },
+    {
+     "IDPRODUCTO": 461,
+     "DESCRIPCIO": "TAFIROL FORTE (10)",
+     "IDRUBRO": 8,
+     "Precio": 1867.820009
+    },
+    {
+     "IDPRODUCTO": 462,
+     "DESCRIPCIO": "TAFIROL MIGRA (10)",
+     "IDRUBRO": 8,
+     "Precio": 3091.479941
+    },
+    {
+     "IDPRODUCTO": 463,
+     "DESCRIPCIO": "TAFIROL PLUS (8)",
+     "IDRUBRO": 8,
+     "Precio": 1785.46995
+    },
+    {
+     "IDPRODUCTO": 471,
+     "DESCRIPCIO": "TAFIROLITO 80 MG. (10)",
+     "IDRUBRO": 8,
+     "Precio": 1426.180052
+    },
+    {
+     "IDPRODUCTO": 479,
+     "DESCRIPCIO": "TE NEXT FORTE SOBRE",
+     "IDRUBRO": 8,
+     "Precio": 905.239962
+    },
+    {
+     "IDPRODUCTO": 474,
+     "DESCRIPCIO": "TE VICK (SOBRE)",
+     "IDRUBRO": 8,
+     "Precio": 1000.400049
+    },
+    {
+     "IDPRODUCTO": 469,
+     "DESCRIPCIO": "TEST DE EMBARAZO",
+     "IDRUBRO": 8,
+     "Precio": 629.520045
+    },
+    {
+     "IDPRODUCTO": 466,
+     "DESCRIPCIO": "TETRALGIN (10)",
+     "IDRUBRO": 8,
+     "Precio": 2125.240007
+    },
+    {
+     "IDPRODUCTO": 467,
+     "DESCRIPCIO": "UVASAL 2 Sobres (15)",
+     "IDRUBRO": 8,
+     "Precio": 475.79995099999996
+    },
+    {
+     "IDPRODUCTO": 468,
+     "DESCRIPCIO": "VIRIPOTENS MAST. 50 (2)",
+     "IDRUBRO": 8,
+     "Precio": 304.999981
+    },
+    {
+     "IDPRODUCTO": 484,
+     "DESCRIPCIO": "VIRIPOTENS PASTILLAS 50 X 2",
+     "IDRUBRO": 8,
+     "Precio": 304.999981
+    },
+    {
+     "IDPRODUCTO": 538,
+     "DESCRIPCIO": "ALF FULBITO CHOCOLATE (60)",
+     "IDRUBRO": 2,
+     "Precio": 107.664953
+    },
+    {
+     "IDPRODUCTO": 539,
+     "DESCRIPCIO": "ALF PEPITO TRIPLE  57 Gr",
+     "IDRUBRO": 2,
+     "Precio": 767.379943
+    },
+    {
+     "IDPRODUCTO": 547,
+     "DESCRIPCIO": "ALF TANTE SIMPLE BCO (60)",
+     "IDRUBRO": 2,
+     "Precio": 105.530029
+    },
+    {
+     "IDPRODUCTO": 537,
+     "DESCRIPCIO": "ALF TERRA GLASEADO 38 Gr",
+     "IDRUBRO": 2,
+     "Precio": 322.079978
+    },
+    {
+     "IDPRODUCTO": 503,
+     "DESCRIPCIO": "ALF. 3 GENIO BCO. (24)",
+     "IDRUBRO": 2,
+     "Precio": 216.549949
+    },
+    {
+     "IDPRODUCTO": 511,
+     "DESCRIPCIO": "ALF. 3 GENIO NEGRO (24)",
+     "IDRUBRO": 2,
+     "Precio": 213.00005099999998
+    },
+    {
+     "IDPRODUCTO": 519,
+     "DESCRIPCIO": "ALF. 3 MILKA OREO  61 Gr.",
+     "IDRUBRO": 2,
+     "Precio": 785.594557
+    },
+    {
+     "IDPRODUCTO": 522,
+     "DESCRIPCIO": "ALF. 3 TERRA D.D.L.  70 Gr",
+     "IDRUBRO": 2,
+     "Precio": 719.7999599999999
+    },
+    {
+     "IDPRODUCTO": 521,
+     "DESCRIPCIO": "ALF. 3 TERRA TORTA  70 Gr",
+     "IDRUBRO": 2,
+     "Precio": 813.7400039999999
+    },
+    {
+     "IDPRODUCTO": 523,
+     "DESCRIPCIO": "ALF. ARROZ  LIMON  LULEMU (12)",
+     "IDRUBRO": 2,
+     "Precio": 328.17995099999996
+    },
+    {
+     "IDPRODUCTO": 514,
+     "DESCRIPCIO": "ALF. ARROZ  MARROC  LULEMUU (12)",
+     "IDRUBRO": 2,
+     "Precio": 328.17995099999996
+    },
+    {
+     "IDPRODUCTO": 513,
+     "DESCRIPCIO": "ALF. ARROZ  YOG\/FTLLA  LULEMUU (12)",
+     "IDRUBRO": 2,
+     "Precio": 328.17995099999996
+    },
+    {
+     "IDPRODUCTO": 533,
+     "DESCRIPCIO": "ALF. ARROZ LULEMUU BCO DDL 26G. (12)",
+     "IDRUBRO": 2,
+     "Precio": 328.17995099999996
+    },
+    {
+     "IDPRODUCTO": 512,
+     "DESCRIPCIO": "ALF. ARROZ NEGRO  D.D.L.  LULEMUU (12)",
+     "IDRUBRO": 2,
+     "Precio": 328.17995099999996
+    },
+    {
+     "IDPRODUCTO": 530,
+     "DESCRIPCIO": "ALF. BAGLEY BCO.  50 Gr. (21)",
+     "IDRUBRO": 2,
+     "Precio": 431.87997599999994
+    },
+    {
+     "IDPRODUCTO": 531,
+     "DESCRIPCIO": "ALF. BAGLEY NEGRO 50 Gr. (21)",
+     "IDRUBRO": 2,
+     "Precio": 431.87997599999994
+    },
+    {
+     "IDPRODUCTO": 501,
+     "DESCRIPCIO": "ALF. FANTOCHE  3 BCO.",
+     "IDRUBRO": 2,
+     "Precio": 432.490058
+    },
+    {
+     "IDPRODUCTO": 502,
+     "DESCRIPCIO": "ALF. FANTOCHE  3 NEGRO",
+     "IDRUBRO": 2,
+     "Precio": 432.490058
+    },
+    {
+     "IDPRODUCTO": 532,
+     "DESCRIPCIO": "ALF. FULBITO MANI (60)",
+     "IDRUBRO": 2,
+     "Precio": 107.664953
+    },
+    {
+     "IDPRODUCTO": 544,
+     "DESCRIPCIO": "ALF. GRANDIOSO BCO. X 70G. (24)",
+     "IDRUBRO": 2,
+     "Precio": 128.70999899999998
+    },
+    {
+     "IDPRODUCTO": 543,
+     "DESCRIPCIO": "ALF. GRANDIOSO NEGRO X 70G. (24)",
+     "IDRUBRO": 2,
+     "Precio": 128.70999899999998
+    },
+    {
+     "IDPRODUCTO": 520,
+     "DESCRIPCIO": "ALF. MILKA  MOUSSE NEGRO 42 Gr.",
+     "IDRUBRO": 2,
+     "Precio": 311.09995399999997
+    },
+    {
+     "IDPRODUCTO": 524,
+     "DESCRIPCIO": "ALF. MILKA 3  D.D.L 70 Gr. (36)",
+     "IDRUBRO": 2,
+     "Precio": 609.999962
+    },
+    {
+     "IDPRODUCTO": 534,
+     "DESCRIPCIO": "ALF. MILKA 3 MOUSSE BCO 55G. (36)",
+     "IDRUBRO": 2,
+     "Precio": 609.999962
+    },
+    {
+     "IDPRODUCTO": 535,
+     "DESCRIPCIO": "ALF. MILKA MOUSSE 55 Gr",
+     "IDRUBRO": 2,
+     "Precio": 609.999962
+    },
+    {
+     "IDPRODUCTO": 536,
+     "DESCRIPCIO": "ALF. OREO  TRIPLE 56 Gr",
+     "IDRUBRO": 2,
+     "Precio": 785.594557
+    },
+    {
+     "IDPRODUCTO": 545,
+     "DESCRIPCIO": "ALF. TANTE 3 BCO. (24)",
+     "IDRUBRO": 2,
+     "Precio": 181.17003300000002
+    },
+    {
+     "IDPRODUCTO": 546,
+     "DESCRIPCIO": "ALF. TANTE 3 NEGRO  (24)",
+     "IDRUBRO": 2,
+     "Precio": 181.17003300000002
+    },
+    {
+     "IDPRODUCTO": 548,
+     "DESCRIPCIO": "ALF. TANTE SIMPLE NEGRO (60)",
+     "IDRUBRO": 2,
+     "Precio": 105.530029
+    },
+    {
+     "IDPRODUCTO": 525,
+     "DESCRIPCIO": "ALF. TERRA. CLASICO 50 Gr. (48)",
+     "IDRUBRO": 2,
+     "Precio": 451.400059
+    },
+    {
+     "IDPRODUCTO": 518,
+     "DESCRIPCIO": "ALF. TRI SHOT  60 Gr",
+     "IDRUBRO": 2,
+     "Precio": 768.599986
+    },
+    {
+     "IDPRODUCTO": 510,
+     "DESCRIPCIO": "ALF. TURIMAR BLANCO (24)",
+     "IDRUBRO": 2,
+     "Precio": 183.000037
+    },
+    {
+     "IDPRODUCTO": 508,
+     "DESCRIPCIO": "ALF. TURIMAR NEGRO (24)",
+     "IDRUBRO": 2,
+     "Precio": 183.000037
+    },
+    {
+     "IDPRODUCTO": 506,
+     "DESCRIPCIO": "PICNIC MINI TORTA (40)",
+     "IDRUBRO": 2,
+     "Precio": 198.25002999999998
+    },
+    {
+     "IDPRODUCTO": 505,
+     "DESCRIPCIO": "RAPSODIA MINI TORTA 80 GR. (24)",
+     "IDRUBRO": 2,
+     "Precio": 347.70003399999996
+    },
+    {
+     "IDPRODUCTO": 631,
+     "DESCRIPCIO": "ALKA ACIDO SURTIDO 800 GR. (10)",
+     "IDRUBRO": 3,
+     "Precio": 5138.6399790000005
+    },
+    {
+     "IDPRODUCTO": 607,
+     "DESCRIPCIO": "ALKA CHERRY X 200 G. (24)",
+     "IDRUBRO": 3,
+     "Precio": 1665.30001
+    },
+    {
+     "IDPRODUCTO": 630,
+     "DESCRIPCIO": "ALKA MENTA 800 GR. (10)",
+     "IDRUBRO": 3,
+     "Precio": 5138.6399790000005
+    },
+    {
+     "IDPRODUCTO": 617,
+     "DESCRIPCIO": "ALKA STRONG X 12",
+     "IDRUBRO": 3,
+     "Precio": 2171.599947
+    },
+    {
+     "IDPRODUCTO": 6018,
+     "DESCRIPCIO": "BOLA LOCA D.D.L.  24 Un.",
+     "IDRUBRO": 3,
+     "Precio": 2532.71997
+    },
+    {
+     "IDPRODUCTO": 678,
+     "DESCRIPCIO": "BULL DOG CRAZY  10 Un",
+     "IDRUBRO": 3,
+     "Precio": 3252.520051
+    },
+    {
+     "IDPRODUCTO": 6010,
+     "DESCRIPCIO": "BULL DOG HUESITO  12 Un.",
+     "IDRUBRO": 3,
+     "Precio": 2532.71997
+    },
+    {
+     "IDPRODUCTO": 6019,
+     "DESCRIPCIO": "BULL DOG LIMON EXTREME 12 Un",
+     "IDRUBRO": 3,
+     "Precio": 2532.71997
+    },
+    {
+     "IDPRODUCTO": 6012,
+     "DESCRIPCIO": "BULL DOG LIMON\/T. FRUTTI 12 Un.",
+     "IDRUBRO": 3,
+     "Precio": 2532.71997
+    },
+    {
+     "IDPRODUCTO": 6016,
+     "DESCRIPCIO": "BULL DOG MANDARINA  12 Un",
+     "IDRUBRO": 3,
+     "Precio": 2532.71997
+    },
+    {
+     "IDPRODUCTO": 680,
+     "DESCRIPCIO": "BULL DOG MANZANA  12 Un.",
+     "IDRUBRO": 3,
+     "Precio": 2532.71997
+    },
+    {
+     "IDPRODUCTO": 675,
+     "DESCRIPCIO": "BULL DOG SANDIA 12 Un",
+     "IDRUBRO": 3,
+     "Precio": 2532.71997
+    },
+    {
+     "IDPRODUCTO": 676,
+     "DESCRIPCIO": "BULL DOG TUTTI FRUTTI  12 Un",
+     "IDRUBRO": 3,
+     "Precio": 2532.71997
+    },
+    {
+     "IDPRODUCTO": 677,
+     "DESCRIPCIO": "BULL DOG UVA \/ MAND.  12 Un",
+     "IDRUBRO": 3,
+     "Precio": 2532.71997
+    },
+    {
+     "IDPRODUCTO": 6013,
+     "DESCRIPCIO": "BULL DOG UVA 12 Un",
+     "IDRUBRO": 3,
+     "Precio": 2532.71997
+    },
+    {
+     "IDPRODUCTO": 6001,
+     "DESCRIPCIO": "BURGER GUMMI  24 Un.",
+     "IDRUBRO": 3,
+     "Precio": 3630.7199499999997
+    },
+    {
+     "IDPRODUCTO": 664,
+     "DESCRIPCIO": "CAR ALKA MENTA  12 Un",
+     "IDRUBRO": 3,
+     "Precio": 2171.599947
+    },
+    {
+     "IDPRODUCTO": 663,
+     "DESCRIPCIO": "CAR ALKA MTOL\/CHERRY  12 Un",
+     "IDRUBRO": 3,
+     "Precio": 2171.599947
+    },
+    {
+     "IDPRODUCTO": 6008,
+     "DESCRIPCIO": "CHUP MASTIC. BABY DOLL 40 Un.",
+     "IDRUBRO": 3,
+     "Precio": 2275.299972
+    },
+    {
+     "IDPRODUCTO": 687,
+     "DESCRIPCIO": "CHUP. CEBOLLITA ANANA \/ UVA  40 Un.",
+     "IDRUBRO": 3,
+     "Precio": 1015.6500419999999
+    },
+    {
+     "IDPRODUCTO": 688,
+     "DESCRIPCIO": "CHUP. CEBOLLITA FTAL  40 Un.",
+     "IDRUBRO": 3,
+     "Precio": 1015.6500419999999
+    },
+    {
+     "IDPRODUCTO": 6034,
+     "DESCRIPCIO": "CHUP. FIERITA TATOO  50 Un.",
+     "IDRUBRO": 3,
+     "Precio": 2635.199952
+    },
+    {
+     "IDPRODUCTO": 6039,
+     "DESCRIPCIO": "CHUPETIN MARENGO FRUTAL 50 Un",
+     "IDRUBRO": 3,
+     "Precio": 1600.64003
+    },
+    {
+     "IDPRODUCTO": 612,
+     "DESCRIPCIO": "COSMOS FRUTAL 40 u",
+     "IDRUBRO": 3,
+     "Precio": 2074.000016
+    },
+    {
+     "IDPRODUCTO": 613,
+     "DESCRIPCIO": "COSMOS MEGA 24 U. (15)",
+     "IDRUBRO": 3,
+     "Precio": 2074.000016
+    },
+    {
+     "IDPRODUCTO": 657,
+     "DESCRIPCIO": "CRAZY POP  UVA  SOBRE",
+     "IDRUBRO": 3,
+     "Precio": 373.930051
+    },
+    {
+     "IDPRODUCTO": 658,
+     "DESCRIPCIO": "CRAZY POP FTLLA SOBRE",
+     "IDRUBRO": 3,
+     "Precio": 340.989979
+    },
+    {
+     "IDPRODUCTO": 690,
+     "DESCRIPCIO": "CRAZY POP NARANJA 10 Un. (20)",
+     "IDRUBRO": 3,
+     "Precio": 340.989979
+    },
+    {
+     "IDPRODUCTO": 656,
+     "DESCRIPCIO": "CRAZY POP SANDIA SOBRE",
+     "IDRUBRO": 3,
+     "Precio": 340.989979
+    },
+    {
+     "IDPRODUCTO": 6042,
+     "DESCRIPCIO": "DIENTES DOCILE 250 Gr.",
+     "IDRUBRO": 3,
+     "Precio": 1646.9999699999998
+    },
+    {
+     "IDPRODUCTO": 614,
+     "DESCRIPCIO": "EVOLUTION AZUL 24 U  (12)",
+     "IDRUBRO": 3,
+     "Precio": 2442.440055
+    },
+    {
+     "IDPRODUCTO": 615,
+     "DESCRIPCIO": "EVOLUTION CEREZA 24 U. (12)",
+     "IDRUBRO": 3,
+     "Precio": 2442.440055
+    },
+    {
+     "IDPRODUCTO": 8020,
+     "DESCRIPCIO": "EVOLUTION FEST",
+     "IDRUBRO": 3,
+     "Precio": 2442.440055
+    },
+    {
+     "IDPRODUCTO": 6009,
+     "DESCRIPCIO": "EVOLUTION PINTA LENGUA 24 Un.",
+     "IDRUBRO": 3,
+     "Precio": 2442.440055
+    },
+    {
+     "IDPRODUCTO": 679,
+     "DESCRIPCIO": "EVOLUTION SURTIDO 24 Un.",
+     "IDRUBRO": 3,
+     "Precio": 2442.440055
+    },
+    {
+     "IDPRODUCTO": 625,
+     "DESCRIPCIO": "FLYN PAFF T.F. 70 U. (12)",
+     "IDRUBRO": 3,
+     "Precio": 3635.600001
+    },
+    {
+     "IDPRODUCTO": 6011,
+     "DESCRIPCIO": "GOMA EUCALIPTUS 1 Kg",
+     "IDRUBRO": 3,
+     "Precio": 4574.999957
+    },
+    {
+     "IDPRODUCTO": 622,
+     "DESCRIPCIO": "GOMA FANTASIA  10 X 30 GR.  (12)",
+     "IDRUBRO": 3,
+     "Precio": 2130.242026
+    },
+    {
+     "IDPRODUCTO": 6029,
+     "DESCRIPCIO": "GOMITA BILLIKEN FRUTAL  30 Gr. (12)",
+     "IDRUBRO": 3,
+     "Precio": 2867.0000149999996
+    },
+    {
+     "IDPRODUCTO": 609,
+     "DESCRIPCIO": "GOMITA FANTASIA 1 KG (6)",
+     "IDRUBRO": 3,
+     "Precio": 4259.019952
+    },
+    {
+     "IDPRODUCTO": 644,
+     "DESCRIPCIO": "GOMITA PINATA BOTON  700 GR.",
+     "IDRUBRO": 3,
+     "Precio": 2903.599974
+    },
+    {
+     "IDPRODUCTO": 650,
+     "DESCRIPCIO": "GOMITA PINATA HUESOS  700 GR (8)",
+     "IDRUBRO": 3,
+     "Precio": 2903.599974
+    },
+    {
+     "IDPRODUCTO": 645,
+     "DESCRIPCIO": "GOMITA PINATA SURT. 700 GR",
+     "IDRUBRO": 3,
+     "Precio": 2903.599974
+    },
+    {
+     "IDPRODUCTO": 626,
+     "DESCRIPCIO": "GONGYS 28 GR (48)",
+     "IDRUBRO": 3,
+     "Precio": 215.93998799999997
+    },
+    {
+     "IDPRODUCTO": 610,
+     "DESCRIPCIO": "JELLY ROLL 800 GR  (6)",
+     "IDRUBRO": 3,
+     "Precio": 3291.559975
+    },
+    {
+     "IDPRODUCTO": 6022,
+     "DESCRIPCIO": "MAST DROPSY  SELVA  700 Gr.",
+     "IDRUBRO": 3,
+     "Precio": 2910.000027
+    },
+    {
+     "IDPRODUCTO": 646,
+     "DESCRIPCIO": "MAST. BILLIKEN FRUTA 200 U. (12)",
+     "IDRUBRO": 3,
+     "Precio": 2409.499983
+    },
+    {
+     "IDPRODUCTO": 647,
+     "DESCRIPCIO": "MAST. BILLIKEN YOGUR 200 U (12)",
+     "IDRUBRO": 3,
+     "Precio": 2409.499983
+    },
+    {
+     "IDPRODUCTO": 6017,
+     "DESCRIPCIO": "MAST. BULL DOG ACIDO 700 Gr",
+     "IDRUBRO": 3,
+     "Precio": 2958.499973
+    },
+    {
+     "IDPRODUCTO": 6023,
+     "DESCRIPCIO": "MAST. BULL DOG FRUTAL 700 Gr",
+     "IDRUBRO": 3,
+     "Precio": 2409.499983
+    },
+    {
+     "IDPRODUCTO": 6030,
+     "DESCRIPCIO": "MAST. DROPSI FRUTAL  700 Gr.",
+     "IDRUBRO": 3,
+     "Precio": 2958.499973
+    },
+    {
+     "IDPRODUCTO": 6024,
+     "DESCRIPCIO": "MAST. DROPSI YOG. 700 Gr",
+     "IDRUBRO": 3,
+     "Precio": 2958.499973
+    },
+    {
+     "IDPRODUCTO": 602,
+     "DESCRIPCIO": "MASTICABLE ARCOR X 800G",
+     "IDRUBRO": 3,
+     "Precio": 2926.169983
+    },
+    {
+     "IDPRODUCTO": 634,
+     "DESCRIPCIO": "MASTICABLE GRANJERO 100 U. (30)",
+     "IDRUBRO": 3,
+     "Precio": 1409.1000549999999
+    },
+    {
+     "IDPRODUCTO": 611,
+     "DESCRIPCIO": "MASTICABLE MISKY (10)",
+     "IDRUBRO": 3,
+     "Precio": 3293.9999399999997
+    },
+    {
+     "IDPRODUCTO": 695,
+     "DESCRIPCIO": "MASTICABLES YUM YUM  200 Un.",
+     "IDRUBRO": 3,
+     "Precio": 2409.499983
+    },
+    {
+     "IDPRODUCTO": 689,
+     "DESCRIPCIO": "MENTA CHOCOLATE 715 Gr. (6)",
+     "IDRUBRO": 3,
+     "Precio": 4818.999966
+    },
+    {
+     "IDPRODUCTO": 685,
+     "DESCRIPCIO": "MENTHO PLUS MENTA  12 Un.",
+     "IDRUBRO": 3,
+     "Precio": 4215.099977
+    },
+    {
+     "IDPRODUCTO": 686,
+     "DESCRIPCIO": "MENTHO PLUS MENTOL 12 Un.",
+     "IDRUBRO": 3,
+     "Precio": 4215.099977
+    },
+    {
+     "IDPRODUCTO": 684,
+     "DESCRIPCIO": "MENTHO PLUS STRONG 12 Un.",
+     "IDRUBRO": 3,
+     "Precio": 4215.099977
+    },
+    {
+     "IDPRODUCTO": 653,
+     "DESCRIPCIO": "MENTHOPLUS CHERRY 12 (12)",
+     "IDRUBRO": 3,
+     "Precio": 4215.099977
+    },
+    {
+     "IDPRODUCTO": 654,
+     "DESCRIPCIO": "MENTHOPLUS MIEL 12 (12)",
+     "IDRUBRO": 3,
+     "Precio": 4215.099977
+    },
+    {
+     "IDPRODUCTO": 6021,
+     "DESCRIPCIO": "MIEL MARENGO 454 Gr.",
+     "IDRUBRO": 3,
+     "Precio": 2198.4400459999997
+    },
+    {
+     "IDPRODUCTO": 633,
+     "DESCRIPCIO": "MIEL MISKY 675 GR (6)",
+     "IDRUBRO": 3,
+     "Precio": 3464.800031
+    },
+    {
+     "IDPRODUCTO": 696,
+     "DESCRIPCIO": "MISKY ROLL 12 X 35G. (24)",
+     "IDRUBRO": 3,
+     "Precio": 1830.0000069999999
+    },
+    {
+     "IDPRODUCTO": 6032,
+     "DESCRIPCIO": "MISKY TOFFEE  LECHE (Chico) 480 Gr (8)",
+     "IDRUBRO": 3,
+     "Precio": 2520.520024
+    },
+    {
+     "IDPRODUCTO": 6014,
+     "DESCRIPCIO": "MISKY TOFFEE CHOC. (Chico) 480 Gr.",
+     "IDRUBRO": 3,
+     "Precio": 2520.520024
+    },
+    {
+     "IDPRODUCTO": 6040,
+     "DESCRIPCIO": "MOGUL CONITO YOG. 500 Gr.",
+     "IDRUBRO": 3,
+     "Precio": 3968.660003
+    },
+    {
+     "IDPRODUCTO": 683,
+     "DESCRIPCIO": "MOGUL DINO 30 Gr.  (12)",
+     "IDRUBRO": 3,
+     "Precio": 3751.4999719999996
+    },
+    {
+     "IDPRODUCTO": 603,
+     "DESCRIPCIO": "MOGUL EXTREME ROCK 12 X 45G. (10)",
+     "IDRUBRO": 3,
+     "Precio": 3751.4999719999996
+    },
+    {
+     "IDPRODUCTO": 632,
+     "DESCRIPCIO": "MOGUL OSITOS  30 GR (12)",
+     "IDRUBRO": 3,
+     "Precio": 3751.4999719999996
+    },
+    {
+     "IDPRODUCTO": 666,
+     "DESCRIPCIO": "MOGUL TIBURON 12 \/ 30 Gr",
+     "IDRUBRO": 3,
+     "Precio": 3751.4999719999996
+    },
+    {
+     "IDPRODUCTO": 6007,
+     "DESCRIPCIO": "MONKEY  T.F. 32 Un.",
+     "IDRUBRO": 3,
+     "Precio": 2342.4000379999998
+    },
+    {
+     "IDPRODUCTO": 6045,
+     "DESCRIPCIO": "PALITOS BULL DOG ACIDO FRAMB. 8 Un.",
+     "IDRUBRO": 3,
+     "Precio": 378.20002
+    },
+    {
+     "IDPRODUCTO": 6043,
+     "DESCRIPCIO": "PALITOS BULL DOG ACIDOS FTLLA  8 Un.",
+     "IDRUBRO": 3,
+     "Precio": 378.20002
+    },
+    {
+     "IDPRODUCTO": 6044,
+     "DESCRIPCIO": "PALITOS BULL DOG ACIDOS SANDIA 8 Un.",
+     "IDRUBRO": 3,
+     "Precio": 378.20002
+    },
+    {
+     "IDPRODUCTO": 6003,
+     "DESCRIPCIO": "PICO DULCE 24 Un.",
+     "IDRUBRO": 3,
+     "Precio": 3416.000005
+    },
+    {
+     "IDPRODUCTO": 699,
+     "DESCRIPCIO": "PICO DULCE 48 Un.",
+     "IDRUBRO": 3,
+     "Precio": 6552.6199639999995
+    },
+    {
+     "IDPRODUCTO": 6020,
+     "DESCRIPCIO": "PINATA ANILLOS  700 Gr.",
+     "IDRUBRO": 3,
+     "Precio": 2903.599974
+    },
+    {
+     "IDPRODUCTO": 6035,
+     "DESCRIPCIO": "PINATA PETE x 700 Gr",
+     "IDRUBRO": 3,
+     "Precio": 2903.599974
+    },
+    {
+     "IDPRODUCTO": 6038,
+     "DESCRIPCIO": "PIZZA GUMMI 15 G. (24)",
+     "IDRUBRO": 3,
+     "Precio": 6778.320054
+    },
+    {
+     "IDPRODUCTO": 662,
+     "DESCRIPCIO": "RELL. FRUTA MISKY  810 Gr",
+     "IDRUBRO": 3,
+     "Precio": 3143.330014
+    },
+    {
+     "IDPRODUCTO": 605,
+     "DESCRIPCIO": "ROLLO BULLDOG ACIDOS X 12",
+     "IDRUBRO": 3,
+     "Precio": 2014.219966
+    },
+    {
+     "IDPRODUCTO": 608,
+     "DESCRIPCIO": "ROLLO MOGUL EXTR. ACIDO X 12",
+     "IDRUBRO": 3,
+     "Precio": 3373.299952
+    },
+    {
+     "IDPRODUCTO": 636,
+     "DESCRIPCIO": "ROLLO MOGUL X 12 (12)",
+     "IDRUBRO": 3,
+     "Precio": 3254.9600159999995
+    },
+    {
+     "IDPRODUCTO": 697,
+     "DESCRIPCIO": "TAPONAZO FRUTAL X 100 U. (30)",
+     "IDRUBRO": 3,
+     "Precio": 1279.779974
+    },
+    {
+     "IDPRODUCTO": 635,
+     "DESCRIPCIO": "TAPONAZO YOGHURT 100 U. (30)",
+     "IDRUBRO": 3,
+     "Precio": 1279.779974
+    },
+    {
+     "IDPRODUCTO": 661,
+     "DESCRIPCIO": "TRANSP. MENTA  MISKY 810 Gr",
+     "IDRUBRO": 3,
+     "Precio": 4428.599999999999
+    },
+    {
+     "IDPRODUCTO": 6041,
+     "DESCRIPCIO": "TRANSPARENTE CHERRY MISKY  405 Gr.",
+     "IDRUBRO": 3,
+     "Precio": 4428.599999999999
+    },
+    {
+     "IDPRODUCTO": 6048,
+     "DESCRIPCIO": "YUMMI CONITO FRUT\/CREMA X 500",
+     "IDRUBRO": 3,
+     "Precio": 3191.519958
+    },
+    {
+     "IDPRODUCTO": 6037,
+     "DESCRIPCIO": "YUMMY  CIENPIES X 500 Gr",
+     "IDRUBRO": 3,
+     "Precio": 3191.519958
+    },
+    {
+     "IDPRODUCTO": 6027,
+     "DESCRIPCIO": "YUMMY ANIMALITO  30 Gr. (12)",
+     "IDRUBRO": 3,
+     "Precio": 3191.519958
+    },
+    {
+     "IDPRODUCTO": 643,
+     "DESCRIPCIO": "YUMMY DINOSAURIOS 12 \/ 30 GR",
+     "IDRUBRO": 3,
+     "Precio": 3191.519958
+    },
+    {
+     "IDPRODUCTO": 6046,
+     "DESCRIPCIO": "YUMMY FRUTITAS 30 Gr (12)",
+     "IDRUBRO": 3,
+     "Precio": 3191.519958
+    },
+    {
+     "IDPRODUCTO": 669,
+     "DESCRIPCIO": "YUMMY MORITAS  30 Gr. (12)",
+     "IDRUBRO": 3,
+     "Precio": 3191.519958
+    },
+    {
+     "IDPRODUCTO": 621,
+     "DESCRIPCIO": "YUMMY MORITAS 500 GR. (6)",
+     "IDRUBRO": 3,
+     "Precio": 3191.519958
+    },
+    {
+     "IDPRODUCTO": 619,
+     "DESCRIPCIO": "YUMMY OSITO 500 GR (6)",
+     "IDRUBRO": 3,
+     "Precio": 3191.519958
+    },
+    {
+     "IDPRODUCTO": 649,
+     "DESCRIPCIO": "YUMMY OSITO ACIDOS 12 \/ 30 GR",
+     "IDRUBRO": 3,
+     "Precio": 3191.519958
+    },
+    {
+     "IDPRODUCTO": 648,
+     "DESCRIPCIO": "YUMMY OSITOS 12 \/ 30 GR.",
+     "IDRUBRO": 3,
+     "Precio": 3191.519958
+    },
+    {
+     "IDPRODUCTO": 642,
+     "DESCRIPCIO": "YUMMY PECECITOS 12 \/ 30 GR",
+     "IDRUBRO": 3,
+     "Precio": 3191.519958
+    },
+    {
+     "IDPRODUCTO": 6028,
+     "DESCRIPCIO": "YUMMY PIECITO 12 \/ 30 Gr",
+     "IDRUBRO": 3,
+     "Precio": 3191.519958
+    },
+    {
+     "IDPRODUCTO": 6031,
+     "DESCRIPCIO": "YUMMY PIES ACIDOS  500 Gr",
+     "IDRUBRO": 3,
+     "Precio": 3191.519958
+    },
+    {
+     "IDPRODUCTO": 618,
+     "DESCRIPCIO": "YUMMY SANDIAS 500 GR (6)",
+     "IDRUBRO": 3,
+     "Precio": 3191.519958
+    },
+    {
+     "IDPRODUCTO": 6036,
+     "DESCRIPCIO": "YUMMY TERROR  12 u",
+     "IDRUBRO": 3,
+     "Precio": 3191.519958
+    },
+    {
+     "IDPRODUCTO": 712,
+     "DESCRIPCIO": "BAZOOKA  MENTA 120 u",
+     "IDRUBRO": 4,
+     "Precio": 4302.9400479999995
+    },
+    {
+     "IDPRODUCTO": 736,
+     "DESCRIPCIO": "BAZOOKA BANANA X120",
+     "IDRUBRO": 4,
+     "Precio": 4302.9400479999995
+    },
+    {
+     "IDPRODUCTO": 731,
+     "DESCRIPCIO": "BAZOOKA FRUTA 120 Un",
+     "IDRUBRO": 4,
+     "Precio": 4302.9400479999995
+    },
+    {
+     "IDPRODUCTO": 725,
+     "DESCRIPCIO": "BELDENT FRUTILLA  20 Un",
+     "IDRUBRO": 4,
+     "Precio": 6673.399986
+    },
+    {
+     "IDPRODUCTO": 714,
+     "DESCRIPCIO": "BELDENT MENTA  20 u",
+     "IDRUBRO": 4,
+     "Precio": 6673.399986
+    },
+    {
+     "IDPRODUCTO": 732,
+     "DESCRIPCIO": "BELDENT MENTOL. (AZUL) 20 U.",
+     "IDRUBRO": 4,
+     "Precio": 6343.999992
+    },
+    {
+     "IDPRODUCTO": 715,
+     "DESCRIPCIO": "BELDENT STRONG 20 u",
+     "IDRUBRO": 4,
+     "Precio": 6673.399986
+    },
+    {
+     "IDPRODUCTO": 726,
+     "DESCRIPCIO": "BELDENT TUTTI FRUTTI 20 Un",
+     "IDRUBRO": 4,
+     "Precio": 6673.399986
+    },
+    {
+     "IDPRODUCTO": 730,
+     "DESCRIPCIO": "BUBBALOO FRUTILLA 60 U.",
+     "IDRUBRO": 4,
+     "Precio": 3208.5999549999997
+    },
+    {
+     "IDPRODUCTO": 713,
+     "DESCRIPCIO": "BUBBALOO MENTA  60 u",
+     "IDRUBRO": 4,
+     "Precio": 3208.5999549999997
+    },
+    {
+     "IDPRODUCTO": 729,
+     "DESCRIPCIO": "BUBBALOO T.F.  60 u.",
+     "IDRUBRO": 4,
+     "Precio": 3208.5999549999997
+    },
+    {
+     "IDPRODUCTO": 733,
+     "DESCRIPCIO": "BUBBALOO UVA  X 60 u",
+     "IDRUBRO": 4,
+     "Precio": 3208.5999549999997
+    },
+    {
+     "IDPRODUCTO": 701,
+     "DESCRIPCIO": "CHICLE ALKA FTA. 20 U (30)",
+     "IDRUBRO": 4,
+     "Precio": 2165.499974
+    },
+    {
+     "IDPRODUCTO": 702,
+     "DESCRIPCIO": "CHICLE ALKA MENTA 20 U. (30)",
+     "IDRUBRO": 4,
+     "Precio": 2165.499974
+    },
+    {
+     "IDPRODUCTO": 735,
+     "DESCRIPCIO": "CHICLE BUZZY TATOO 100 Un.",
+     "IDRUBRO": 4,
+     "Precio": 2122.800042
+    },
+    {
+     "IDPRODUCTO": 734,
+     "DESCRIPCIO": "CHICLE COMEFUEGO  50 Un",
+     "IDRUBRO": 4,
+     "Precio": 1496.940005
+    },
+    {
+     "IDPRODUCTO": 716,
+     "DESCRIPCIO": "FIERITA  MENTA  100 Un",
+     "IDRUBRO": 4,
+     "Precio": 1681.159964
+    },
+    {
+     "IDPRODUCTO": 717,
+     "DESCRIPCIO": "FIERITA  REC.  FTLLA  50 Un",
+     "IDRUBRO": 4,
+     "Precio": 1726.2999819999998
+    },
+    {
+     "IDPRODUCTO": 721,
+     "DESCRIPCIO": "FIERITA  T \/ F  100Un",
+     "IDRUBRO": 4,
+     "Precio": 1681.159964
+    },
+    {
+     "IDPRODUCTO": 738,
+     "DESCRIPCIO": "FIERITA FRUTILLA  X 100 U.",
+     "IDRUBRO": 4,
+     "Precio": 1681.159964
+    },
+    {
+     "IDPRODUCTO": 709,
+     "DESCRIPCIO": "FIERITA REC.  T.F.",
+     "IDRUBRO": 4,
+     "Precio": 1726.2999819999998
+    },
+    {
+     "IDPRODUCTO": 710,
+     "DESCRIPCIO": "FIERITA REC. BANANA 50 UN. (18)",
+     "IDRUBRO": 4,
+     "Precio": 1726.2999819999998
+    },
+    {
+     "IDPRODUCTO": 711,
+     "DESCRIPCIO": "FIERITA RECARGADO MENTA",
+     "IDRUBRO": 4,
+     "Precio": 1726.2999819999998
+    },
+    {
+     "IDPRODUCTO": 706,
+     "DESCRIPCIO": "TOP LINE MENTA (20)",
+     "IDRUBRO": 4,
+     "Precio": 4998.339994999999
+    },
+    {
+     "IDPRODUCTO": 720,
+     "DESCRIPCIO": "TOP LINE SEVEN MENTHOL (16)",
+     "IDRUBRO": 4,
+     "Precio": 7429.800026
+    },
+    {
+     "IDPRODUCTO": 938,
+     "DESCRIPCIO": "BOM BOM HAMLET 13 Gr. (30)",
+     "IDRUBRO": 5,
+     "Precio": 4238.279947
+    },
+    {
+     "IDPRODUCTO": 941,
+     "DESCRIPCIO": "BOM BOM OBLI BOM Ftlla. 30Un.",
+     "IDRUBRO": 5,
+     "Precio": 3550.200016
+    },
+    {
+     "IDPRODUCTO": 929,
+     "DESCRIPCIO": "BOM BOM OBLIBON  30 Un",
+     "IDRUBRO": 5,
+     "Precio": 3550.200016
+    },
+    {
+     "IDPRODUCTO": 959,
+     "DESCRIPCIO": "BON O BON  NEGRO 30 Un.",
+     "IDRUBRO": 5,
+     "Precio": 7238.260050999999
+    },
+    {
+     "IDPRODUCTO": 960,
+     "DESCRIPCIO": "BON O BON BLANCO 30 Un.",
+     "IDRUBRO": 5,
+     "Precio": 7238.260050999999
+    },
+    {
+     "IDPRODUCTO": 905,
+     "DESCRIPCIO": "CELOFAN BLANCO 25 GR (30)",
+     "IDRUBRO": 5,
+     "Precio": 369.05
+    },
+    {
+     "IDPRODUCTO": 904,
+     "DESCRIPCIO": "CELOFAN NEGRO 25 GR (30)",
+     "IDRUBRO": 5,
+     "Precio": 369.05
+    },
+    {
+     "IDPRODUCTO": 928,
+     "DESCRIPCIO": "CHOC. TAZA MISKY  100 Gr  (12)",
+     "IDRUBRO": 5,
+     "Precio": 1120.569989
+    },
+    {
+     "IDPRODUCTO": 931,
+     "DESCRIPCIO": "CHOCOLATIN  BCO  20 Un 8 Gr (40)",
+     "IDRUBRO": 5,
+     "Precio": 2609.580017
+    },
+    {
+     "IDPRODUCTO": 932,
+     "DESCRIPCIO": "CHOCOLATIN NEGRO  20  8Gr  (40)",
+     "IDRUBRO": 5,
+     "Precio": 2609.580017
+    },
+    {
+     "IDPRODUCTO": 958,
+     "DESCRIPCIO": "COFLER BLOCK  38 Gr (20)",
+     "IDRUBRO": 5,
+     "Precio": 649.040007
+    },
+    {
+     "IDPRODUCTO": 907,
+     "DESCRIPCIO": "DOS CORAZONES 20 U. (20)",
+     "IDRUBRO": 5,
+     "Precio": 13127.199976
+    },
+    {
+     "IDPRODUCTO": 937,
+     "DESCRIPCIO": "FULL MANI 100 Gr.",
+     "IDRUBRO": 5,
+     "Precio": 641.7199909999999
+    },
+    {
+     "IDPRODUCTO": 944,
+     "DESCRIPCIO": "FULL MANI 160 Gr.",
+     "IDRUBRO": 5,
+     "Precio": 1051.64004
+    },
+    {
+     "IDPRODUCTO": 936,
+     "DESCRIPCIO": "FULL MANI 35 Gr (15)",
+     "IDRUBRO": 5,
+     "Precio": 292.800035
+    },
+    {
+     "IDPRODUCTO": 901,
+     "DESCRIPCIO": "HAMLET ALMENDRAS \/ MANI 43 GR",
+     "IDRUBRO": 5,
+     "Precio": 335.49996699999997
+    },
+    {
+     "IDPRODUCTO": 926,
+     "DESCRIPCIO": "HAMLET BCO  y COOCKIES 43G. (21)",
+     "IDRUBRO": 5,
+     "Precio": 335.49996699999997
+    },
+    {
+     "IDPRODUCTO": 927,
+     "DESCRIPCIO": "HAMLET BICOLOR 43 Gr  (21)",
+     "IDRUBRO": 5,
+     "Precio": 335.49996699999997
+    },
+    {
+     "IDPRODUCTO": 935,
+     "DESCRIPCIO": "HAMLET CHOCOLATOSO",
+     "IDRUBRO": 5,
+     "Precio": 335.49996699999997
+    },
+    {
+     "IDPRODUCTO": 924,
+     "DESCRIPCIO": "HAMLET FRUTILLA 43G. (21)",
+     "IDRUBRO": 5,
+     "Precio": 335.49996699999997
+    },
+    {
+     "IDPRODUCTO": 925,
+     "DESCRIPCIO": "HAMLET LECHE \/ COOKIE 43G (21)",
+     "IDRUBRO": 5,
+     "Precio": 335.49996699999997
+    },
+    {
+     "IDPRODUCTO": 906,
+     "DESCRIPCIO": "HAMLET WAY 30 GR. (21)",
+     "IDRUBRO": 5,
+     "Precio": 228.750016
+    },
+    {
+     "IDPRODUCTO": 914,
+     "DESCRIPCIO": "HUEVO SAPITO  28 GR (12)",
+     "IDRUBRO": 5,
+     "Precio": 537.410005
+    },
+    {
+     "IDPRODUCTO": 962,
+     "DESCRIPCIO": "KINDER JOY",
+     "IDRUBRO": 5,
+     "Precio": 932.07994
+    },
+    {
+     "IDPRODUCTO": 934,
+     "DESCRIPCIO": "KINDER SORPRESA  VARON",
+     "IDRUBRO": 5,
+     "Precio": 1058.069375
+    },
+    {
+     "IDPRODUCTO": 965,
+     "DESCRIPCIO": "KINDER SORPRESA NENA",
+     "IDRUBRO": 5,
+     "Precio": 794.2200419999999
+    },
+    {
+     "IDPRODUCTO": 956,
+     "DESCRIPCIO": "MARROC  20 Un.",
+     "IDRUBRO": 5,
+     "Precio": 4062.600047
+    },
+    {
+     "IDPRODUCTO": 953,
+     "DESCRIPCIO": "MARROC  60 Un",
+     "IDRUBRO": 5,
+     "Precio": 11055.640045999999
+    },
+    {
+     "IDPRODUCTO": 964,
+     "DESCRIPCIO": "OBLEA BON O BON 30 Gr. (20)",
+     "IDRUBRO": 5,
+     "Precio": 462.379962
+    },
+    {
+     "IDPRODUCTO": 933,
+     "DESCRIPCIO": "OBLEA HAMLET 30 Gr. (18)",
+     "IDRUBRO": 5,
+     "Precio": 265.106039
+    },
+    {
+     "IDPRODUCTO": 909,
+     "DESCRIPCIO": "OBLEA HAMLETON  28 GR (16)",
+     "IDRUBRO": 5,
+     "Precio": 215.33002699999997
+    },
+    {
+     "IDPRODUCTO": 961,
+     "DESCRIPCIO": "OBLEA OBLITA C\/ CHOC. 20 Gr",
+     "IDRUBRO": 5,
+     "Precio": 150.05996499999998
+    },
+    {
+     "IDPRODUCTO": 908,
+     "DESCRIPCIO": "OBLEA SMACK  33 GR.  (44)",
+     "IDRUBRO": 5,
+     "Precio": 80.93351200000001
+    },
+    {
+     "IDPRODUCTO": 922,
+     "DESCRIPCIO": "RHODESIA 22 GR (36)",
+     "IDRUBRO": 5,
+     "Precio": 406.26004099999994
+    },
+    {
+     "IDPRODUCTO": 918,
+     "DESCRIPCIO": "SAPITO  D. D. LECHE  24 U. (8)",
+     "IDRUBRO": 5,
+     "Precio": 3234.829972
+    },
+    {
+     "IDPRODUCTO": 916,
+     "DESCRIPCIO": "SAPITO CHOCOLATOSO 24 U.",
+     "IDRUBRO": 5,
+     "Precio": 3234.829972
+    },
+    {
+     "IDPRODUCTO": 919,
+     "DESCRIPCIO": "SAPITO FRUTILLA 24 U. (8)",
+     "IDRUBRO": 5,
+     "Precio": 3234.829972
+    },
+    {
+     "IDPRODUCTO": 955,
+     "DESCRIPCIO": "TITA",
+     "IDRUBRO": 5,
+     "Precio": 370.880004
+    },
+    {
+     "IDPRODUCTO": 954,
+     "DESCRIPCIO": "TOKKE (Chico)  D.D.L.  30 Gr.",
+     "IDRUBRO": 5,
+     "Precio": 417.239944
+    },
+    {
+     "IDPRODUCTO": 912,
+     "DESCRIPCIO": "TOKKE C\/ D.D.L. 72 GR (24)",
+     "IDRUBRO": 5,
+     "Precio": 620.248057
+    },
+    {
+     "IDPRODUCTO": 940,
+     "DESCRIPCIO": "TOKKE C\/LECHE 80 Gr.",
+     "IDRUBRO": 5,
+     "Precio": 620.248057
+    },
+    {
+     "IDPRODUCTO": 930,
+     "DESCRIPCIO": "TOKKE LECHE MANI 62 Gr  (24)",
+     "IDRUBRO": 5,
+     "Precio": 620.248057
+    },
+    {
+     "IDPRODUCTO": 8017,
+     "DESCRIPCIO": "AMOR  108 Gr.",
+     "IDRUBRO": 9,
+     "Precio": 631.9600099999999
+    },
+    {
+     "IDPRODUCTO": 8043,
+     "DESCRIPCIO": "ANIMACION SOLITAS 100 Gr",
+     "IDRUBRO": 9,
+     "Precio": 241.560044
+    },
+    {
+     "IDPRODUCTO": 8029,
+     "DESCRIPCIO": "ARITO SOLITA  X170 G. (24)",
+     "IDRUBRO": 9,
+     "Precio": 397.719982
+    },
+    {
+     "IDPRODUCTO": 900,
+     "DESCRIPCIO": "BIZC. DULCYPAS  SALADO 200 Gr. (25)",
+     "IDRUBRO": 9,
+     "Precio": 240.34000099999997
+    },
+    {
+     "IDPRODUCTO": 894,
+     "DESCRIPCIO": "CHOCOLINAS 100 Gr. (50)",
+     "IDRUBRO": 9,
+     "Precio": 477.629955
+    },
+    {
+     "IDPRODUCTO": 893,
+     "DESCRIPCIO": "CHOCOLINAS 150 Gr. (40)",
+     "IDRUBRO": 9,
+     "Precio": 795.439964
+    },
+    {
+     "IDPRODUCTO": 875,
+     "DESCRIPCIO": "COQUITAS X 157G. (40)",
+     "IDRUBRO": 9,
+     "Precio": 805.1999450000001
+    },
+    {
+     "IDPRODUCTO": 840,
+     "DESCRIPCIO": "CUBANITO OBLITA D.D.L.  48 U.",
+     "IDRUBRO": 9,
+     "Precio": 2476.831764
+    },
+    {
+     "IDPRODUCTO": 888,
+     "DESCRIPCIO": "CUBANITO OBLITA FTLLA 48 Un",
+     "IDRUBRO": 9,
+     "Precio": 2476.831764
+    },
+    {
+     "IDPRODUCTO": 887,
+     "DESCRIPCIO": "CUBANITO OBLITA MARROC 48 Un",
+     "IDRUBRO": 9,
+     "Precio": 2476.831764
+    },
+    {
+     "IDPRODUCTO": 886,
+     "DESCRIPCIO": "CUBANITO OBLITA NOUGAT  48 Un",
+     "IDRUBRO": 9,
+     "Precio": 2476.831764
+    },
+    {
+     "IDPRODUCTO": 807,
+     "DESCRIPCIO": "DESFILE 400 GR (21)",
+     "IDRUBRO": 9,
+     "Precio": 847.899998
+    },
+    {
+     "IDPRODUCTO": 814,
+     "DESCRIPCIO": "DIVERSION 400 GR (21)",
+     "IDRUBRO": 9,
+     "Precio": 1284.6600250000001
+    },
+    {
+     "IDPRODUCTO": 860,
+     "DESCRIPCIO": "EKIN CHOCOLATE 160 Gr (25)",
+     "IDRUBRO": 9,
+     "Precio": 461.16004000000004
+    },
+    {
+     "IDPRODUCTO": 8042,
+     "DESCRIPCIO": "EKIN VAINILLA 160 Gr",
+     "IDRUBRO": 9,
+     "Precio": 461.16004000000004
+    },
+    {
+     "IDPRODUCTO": 889,
+     "DESCRIPCIO": "EXHIBICION SOLITAS  170 Gr",
+     "IDRUBRO": 9,
+     "Precio": 351.36004199999996
+    },
+    {
+     "IDPRODUCTO": 858,
+     "DESCRIPCIO": "EXHIBICION SOLITAS 400 Gr (10)",
+     "IDRUBRO": 9,
+     "Precio": 905.239962
+    },
+    {
+     "IDPRODUCTO": 824,
+     "DESCRIPCIO": "FAUNA STDO. 150 GR (28)",
+     "IDRUBRO": 9,
+     "Precio": 418.459987
+    },
+    {
+     "IDPRODUCTO": 8014,
+     "DESCRIPCIO": "FESTIVA MARIA  145 Gr.",
+     "IDRUBRO": 9,
+     "Precio": 160.124987
+    },
+    {
+     "IDPRODUCTO": 829,
+     "DESCRIPCIO": "FORMIS BLACK (Gde)102 GR.  (36)",
+     "IDRUBRO": 9,
+     "Precio": 629.520045
+    },
+    {
+     "IDPRODUCTO": 891,
+     "DESCRIPCIO": "FORMIS CHOC. (Chica) 72 Gr. (60)",
+     "IDRUBRO": 9,
+     "Precio": 413.58005699999995
+    },
+    {
+     "IDPRODUCTO": 8030,
+     "DESCRIPCIO": "FORMIS CHOCO\/DDL (GDE)",
+     "IDRUBRO": 9,
+     "Precio": 629.520045
+    },
+    {
+     "IDPRODUCTO": 8021,
+     "DESCRIPCIO": "FORMIS D.D.L.  Chica 72 Gr. (60)",
+     "IDRUBRO": 9,
+     "Precio": 413.58005699999995
+    },
+    {
+     "IDPRODUCTO": 8031,
+     "DESCRIPCIO": "FORMIS FTLLA. (Chica) 72 Gr.",
+     "IDRUBRO": 9,
+     "Precio": 413.58005699999995
+    },
+    {
+     "IDPRODUCTO": 892,
+     "DESCRIPCIO": "FORMIS VLLA . (Chica) 72 Gr. (60)",
+     "IDRUBRO": 9,
+     "Precio": 413.58005699999995
+    },
+    {
+     "IDPRODUCTO": 880,
+     "DESCRIPCIO": "FORMIS VLLA \/ FTLLA  (Gde)102 Gr",
+     "IDRUBRO": 9,
+     "Precio": 629.520045
+    },
+    {
+     "IDPRODUCTO": 879,
+     "DESCRIPCIO": "FORMIS VLLA.\/ CHOC. (Gde)102 Gr",
+     "IDRUBRO": 9,
+     "Precio": 629.520045
+    },
+    {
+     "IDPRODUCTO": 884,
+     "DESCRIPCIO": "GALLETA  COFLER 120 Gr",
+     "IDRUBRO": 9,
+     "Precio": 732.000027
+    },
+    {
+     "IDPRODUCTO": 833,
+     "DESCRIPCIO": "GALLETA BLOCK 124 GR. (30)",
+     "IDRUBRO": 9,
+     "Precio": 944.280007
+    },
+    {
+     "IDPRODUCTO": 8032,
+     "DESCRIPCIO": "LINCOLN CLASICA 153 Gr",
+     "IDRUBRO": 9,
+     "Precio": 588.040035
+    },
+    {
+     "IDPRODUCTO": 8019,
+     "DESCRIPCIO": "MACUCA 85 Gr.",
+     "IDRUBRO": 9,
+     "Precio": 312.319997
+    },
+    {
+     "IDPRODUCTO": 835,
+     "DESCRIPCIO": "MACUCAS 110 GR (36)",
+     "IDRUBRO": 9,
+     "Precio": 612.4400479999999
+    },
+    {
+     "IDPRODUCTO": 8004,
+     "DESCRIPCIO": "MAGD. DULCYPAS CHOC. 225 Gr. (10)",
+     "IDRUBRO": 9,
+     "Precio": 680.7600359999999
+    },
+    {
+     "IDPRODUCTO": 8003,
+     "DESCRIPCIO": "MAGD. DULCYPAS VLLA. 225 Gr (10)",
+     "IDRUBRO": 9,
+     "Precio": 523.745959
+    },
+    {
+     "IDPRODUCTO": 846,
+     "DESCRIPCIO": "MAGDALENA SATUR D.D.L.  250 GR",
+     "IDRUBRO": 9,
+     "Precio": 1049.199954
+    },
+    {
+     "IDPRODUCTO": 878,
+     "DESCRIPCIO": "MAGDALENA SATUR MARMOLADA  250 Gr",
+     "IDRUBRO": 9,
+     "Precio": 1049.199954
+    },
+    {
+     "IDPRODUCTO": 845,
+     "DESCRIPCIO": "MAGDALENA SATUR VLLA. 250 GR (10)",
+     "IDRUBRO": 9,
+     "Precio": 1049.199954
+    },
+    {
+     "IDPRODUCTO": 8007,
+     "DESCRIPCIO": "MANA CHOC. RELL. VLLA. 152G. (36)",
+     "IDRUBRO": 9,
+     "Precio": 825.93995
+    },
+    {
+     "IDPRODUCTO": 8022,
+     "DESCRIPCIO": "MANA RELL. FTLLA. 152 Gr. (36)",
+     "IDRUBRO": 9,
+     "Precio": 825.93995
+    },
+    {
+     "IDPRODUCTO": 890,
+     "DESCRIPCIO": "MANA VLLA.  RELL. CHOC. 152 Gr. (36)",
+     "IDRUBRO": 9,
+     "Precio": 825.93995
+    },
+    {
+     "IDPRODUCTO": 8013,
+     "DESCRIPCIO": "MANA VLLA. 136 Gr. (36)",
+     "IDRUBRO": 9,
+     "Precio": 575.230007
+    },
+    {
+     "IDPRODUCTO": 882,
+     "DESCRIPCIO": "MANA VLLA. RELL LIMON  152 Gr. (36)",
+     "IDRUBRO": 9,
+     "Precio": 825.93995
+    },
+    {
+     "IDPRODUCTO": 8047,
+     "DESCRIPCIO": "MANON",
+     "IDRUBRO": 9,
+     "Precio": 597.800016
+    },
+    {
+     "IDPRODUCTO": 804,
+     "DESCRIPCIO": "MEDIA TARDE X 3 UN.",
+     "IDRUBRO": 9,
+     "Precio": 550.799986
+    },
+    {
+     "IDPRODUCTO": 8018,
+     "DESCRIPCIO": "MELLIZAS X 108 Gr.",
+     "IDRUBRO": 9,
+     "Precio": 567.30003
+    },
+    {
+     "IDPRODUCTO": 836,
+     "DESCRIPCIO": "MERENGADAS 88 GR. (36)",
+     "IDRUBRO": 9,
+     "Precio": 706.3799710000001
+    },
+    {
+     "IDPRODUCTO": 871,
+     "DESCRIPCIO": "MINI OREO  50 Gr.",
+     "IDRUBRO": 9,
+     "Precio": 379.419942
+    },
+    {
+     "IDPRODUCTO": 8041,
+     "DESCRIPCIO": "MINI PEPITOS (54)",
+     "IDRUBRO": 9,
+     "Precio": 367.219996
+    },
+    {
+     "IDPRODUCTO": 881,
+     "DESCRIPCIO": "OBLITA  D.D.L. 50 Gr",
+     "IDRUBRO": 9,
+     "Precio": 229.359977
+    },
+    {
+     "IDPRODUCTO": 817,
+     "DESCRIPCIO": "OBLITA CHOCOLATE X 50 GR. (48)",
+     "IDRUBRO": 9,
+     "Precio": 225.600023
+    },
+    {
+     "IDPRODUCTO": 8010,
+     "DESCRIPCIO": "OBLITA FLLA. 100G. (48)",
+     "IDRUBRO": 9,
+     "Precio": 436.149945
+    },
+    {
+     "IDPRODUCTO": 816,
+     "DESCRIPCIO": "OBLITA FTLLA. X 50 GR (48)",
+     "IDRUBRO": 9,
+     "Precio": 225.600023
+    },
+    {
+     "IDPRODUCTO": 8011,
+     "DESCRIPCIO": "OBLITA VLLA. 100 G. (48)",
+     "IDRUBRO": 9,
+     "Precio": 436.149945
+    },
+    {
+     "IDPRODUCTO": 815,
+     "DESCRIPCIO": "OBLITA VLLA. X 50 GR. (48)",
+     "IDRUBRO": 9,
+     "Precio": 225.600023
+    },
+    {
+     "IDPRODUCTO": 837,
+     "DESCRIPCIO": "OPERA 55 GR. (56)",
+     "IDRUBRO": 9,
+     "Precio": 431.87997599999994
+    },
+    {
+     "IDPRODUCTO": 869,
+     "DESCRIPCIO": "OREO 118 Gr. (36)",
+     "IDRUBRO": 9,
+     "Precio": 805.1999450000001
+    },
+    {
+     "IDPRODUCTO": 8012,
+     "DESCRIPCIO": "OREO CLASICA 4X34G. (24)",
+     "IDRUBRO": 9,
+     "Precio": 1172.4199409999999
+    },
+    {
+     "IDPRODUCTO": 852,
+     "DESCRIPCIO": "PEPAS SOLITAS 170 GR (24)",
+     "IDRUBRO": 9,
+     "Precio": 425.17004199999997
+    },
+    {
+     "IDPRODUCTO": 809,
+     "DESCRIPCIO": "PEPAS SOLITAS 400 GR (10)",
+     "IDRUBRO": 9,
+     "Precio": 921.770982
+    },
+    {
+     "IDPRODUCTO": 808,
+     "DESCRIPCIO": "PEPAS TRIO 200 GR (20)",
+     "IDRUBRO": 9,
+     "Precio": 469.15100099999995
+    },
+    {
+     "IDPRODUCTO": 896,
+     "DESCRIPCIO": "PEPAS TRIO C\/CHIPS 180 Gr.",
+     "IDRUBRO": 9,
+     "Precio": 469.15100099999995
+    },
+    {
+     "IDPRODUCTO": 838,
+     "DESCRIPCIO": "PEPAS TRIO TRICHOC. 180 GR. (20)",
+     "IDRUBRO": 9,
+     "Precio": 469.15100099999995
+    },
+    {
+     "IDPRODUCTO": 870,
+     "DESCRIPCIO": "PEPITOS 119 Gr.",
+     "IDRUBRO": 9,
+     "Precio": 773.4800369999999
+    },
+    {
+     "IDPRODUCTO": 813,
+     "DESCRIPCIO": "POLVORITA CHOCOLATE 80 GR. (40)",
+     "IDRUBRO": 9,
+     "Precio": 278.76996399999996
+    },
+    {
+     "IDPRODUCTO": 8008,
+     "DESCRIPCIO": "POLVORITA FLLA. (Grande)150G. (36)",
+     "IDRUBRO": 9,
+     "Precio": 535.580001
+    },
+    {
+     "IDPRODUCTO": 8009,
+     "DESCRIPCIO": "POLVORITA VLLA. (Grande) 150G. (36)",
+     "IDRUBRO": 9,
+     "Precio": 535.580001
+    },
+    {
+     "IDPRODUCTO": 811,
+     "DESCRIPCIO": "POLVORITA VLLA. 80 GR (40)",
+     "IDRUBRO": 9,
+     "Precio": 278.76996399999996
+    },
+    {
+     "IDPRODUCTO": 812,
+     "DESCRIPCIO": "POLVORITAS FRUTILLA 80 GR (40)",
+     "IDRUBRO": 9,
+     "Precio": 278.76996399999996
+    },
+    {
+     "IDPRODUCTO": 883,
+     "DESCRIPCIO": "PORTE�ITAS",
+     "IDRUBRO": 9,
+     "Precio": 664.899961
+    },
+    {
+     "IDPRODUCTO": 861,
+     "DESCRIPCIO": "PRESUMIDAS  FTLLA. 80 Gr (40)",
+     "IDRUBRO": 9,
+     "Precio": 214.90301799999997
+    },
+    {
+     "IDPRODUCTO": 862,
+     "DESCRIPCIO": "PRESUMIDAS  VLLA 80 Gr. (40)",
+     "IDRUBRO": 9,
+     "Precio": 214.90301799999997
+    },
+    {
+     "IDPRODUCTO": 823,
+     "DESCRIPCIO": "PRESUMIDAS CHOCOLATE 80 GR (40)",
+     "IDRUBRO": 9,
+     "Precio": 214.90301799999997
+    },
+    {
+     "IDPRODUCTO": 822,
+     "DESCRIPCIO": "RONDA 150 GR. (30)",
+     "IDRUBRO": 9,
+     "Precio": 834.480009
+    },
+    {
+     "IDPRODUCTO": 877,
+     "DESCRIPCIO": "RUMBA  108 Gr",
+     "IDRUBRO": 9,
+     "Precio": 705.160049
+    },
+    {
+     "IDPRODUCTO": 850,
+     "DESCRIPCIO": "SALADIX CALABRESA 100 GR (24)",
+     "IDRUBRO": 9,
+     "Precio": 764.208049
+    },
+    {
+     "IDPRODUCTO": 820,
+     "DESCRIPCIO": "SALADIX CALABRESA 6 \/ 30 GR (8)",
+     "IDRUBRO": 9,
+     "Precio": 2398.519959
+    },
+    {
+     "IDPRODUCTO": 876,
+     "DESCRIPCIO": "SALADIX DUO  6 X 25 GR  (8)",
+     "IDRUBRO": 9,
+     "Precio": 2398.519959
+    },
+    {
+     "IDPRODUCTO": 885,
+     "DESCRIPCIO": "SALADIX DUO 100 Gr.",
+     "IDRUBRO": 9,
+     "Precio": 764.208049
+    },
+    {
+     "IDPRODUCTO": 856,
+     "DESCRIPCIO": "SALADIX JAMON  6 \/ 30 GR (8)",
+     "IDRUBRO": 9,
+     "Precio": 2398.519959
+    },
+    {
+     "IDPRODUCTO": 848,
+     "DESCRIPCIO": "SALADIX JAMON 100 GR",
+     "IDRUBRO": 9,
+     "Precio": 764.208049
+    },
+    {
+     "IDPRODUCTO": 847,
+     "DESCRIPCIO": "SALADIX PARMESANO 100 Gr  (24)",
+     "IDRUBRO": 9,
+     "Precio": 764.208049
+    },
+    {
+     "IDPRODUCTO": 853,
+     "DESCRIPCIO": "SALADIX PIZZA  6 x 30 Gr  (8)",
+     "IDRUBRO": 9,
+     "Precio": 2398.519959
+    },
+    {
+     "IDPRODUCTO": 849,
+     "DESCRIPCIO": "SALADIX PIZZA 100 GR",
+     "IDRUBRO": 9,
+     "Precio": 764.208049
+    },
+    {
+     "IDPRODUCTO": 806,
+     "DESCRIPCIO": "SALVADO MAURI 210 GR. (20)",
+     "IDRUBRO": 9,
+     "Precio": 616.100056
+    },
+    {
+     "IDPRODUCTO": 825,
+     "DESCRIPCIO": "SATUR DULCE 200GR (30)",
+     "IDRUBRO": 9,
+     "Precio": 445.299965
+    },
+    {
+     "IDPRODUCTO": 818,
+     "DESCRIPCIO": "SATUR SALADO 200 GR. (30)",
+     "IDRUBRO": 9,
+     "Precio": 445.299965
+    },
+    {
+     "IDPRODUCTO": 805,
+     "DESCRIPCIO": "SIN SAL MAURI 400 GR. (12)",
+     "IDRUBRO": 9,
+     "Precio": 1138.259947
+    },
+    {
+     "IDPRODUCTO": 834,
+     "DESCRIPCIO": "SONRISAS 108 GR. (36)",
+     "IDRUBRO": 9,
+     "Precio": 706.3799710000001
+    },
+    {
+     "IDPRODUCTO": 841,
+     "DESCRIPCIO": "SURTIDO BAGLEY 398 GR. (21)",
+     "IDRUBRO": 9,
+     "Precio": 1427.399974
+    },
+    {
+     "IDPRODUCTO": 8044,
+     "DESCRIPCIO": "TODDY 125 Gr.",
+     "IDRUBRO": 9,
+     "Precio": 967.459977
+    },
+    {
+     "IDPRODUCTO": 8033,
+     "DESCRIPCIO": "TODDY MINI 50 Gr.",
+     "IDRUBRO": 9,
+     "Precio": 269.619944
+    },
+    {
+     "IDPRODUCTO": 867,
+     "DESCRIPCIO": "TORTITAS CHOCOLATE 125 Gr (24)",
+     "IDRUBRO": 9,
+     "Precio": 597.800016
+    },
+    {
+     "IDPRODUCTO": 8025,
+     "DESCRIPCIO": "TRIANGULITOS MAFALDA  150 Gr",
+     "IDRUBRO": 9,
+     "Precio": 357.399031
+    },
+    {
+     "IDPRODUCTO": 810,
+     "DESCRIPCIO": "TRIO FROLITAS 160 GR  (20)",
+     "IDRUBRO": 9,
+     "Precio": 469.15100099999995
+    },
+    {
+     "IDPRODUCTO": 819,
+     "DESCRIPCIO": "VAINILLA MAURI 80 GR (36)",
+     "IDRUBRO": 9,
+     "Precio": 326.96002899999996
+    },
+    {
+     "IDPRODUCTO": 8026,
+     "DESCRIPCIO": "VARIEDAD X 390 Gr.",
+     "IDRUBRO": 9,
+     "Precio": 1140.700033
+    },
+    {
+     "IDPRODUCTO": 855,
+     "DESCRIPCIO": "VOCACION ACARAMELADA 145 GR (30)",
+     "IDRUBRO": 9,
+     "Precio": 402.600033
+    },
+    {
+     "IDPRODUCTO": 827,
+     "DESCRIPCIO": "VOCACION VLLA. 141 GR (36)",
+     "IDRUBRO": 9,
+     "Precio": 397.719982
+    },
+    {
+     "IDPRODUCTO": 1313,
+     "DESCRIPCIO": "BAGGIO DURAZNO 200 C.C.",
+     "IDRUBRO": 10,
+     "Precio": 356.239972
+    },
+    {
+     "IDPRODUCTO": 1314,
+     "DESCRIPCIO": "BAGGIO MULTIF. 200 C.C.",
+     "IDRUBRO": 10,
+     "Precio": 356.239972
+    },
+    {
+     "IDPRODUCTO": 1305,
+     "DESCRIPCIO": "PEPITO  MANZANA  160 CC. (18)",
+     "IDRUBRO": 10,
+     "Precio": 202.82504
+    },
+    {
+     "IDPRODUCTO": 1303,
+     "DESCRIPCIO": "PEPITO DURAZNO 160 CC (18)",
+     "IDRUBRO": 10,
+     "Precio": 199.824966
+    },
+    {
+     "IDPRODUCTO": 1304,
+     "DESCRIPCIO": "PEPITO MULTIFRUTA  160 CC (18)",
+     "IDRUBRO": 10,
+     "Precio": 202.82504
+    },
+    {
+     "IDPRODUCTO": 1306,
+     "DESCRIPCIO": "PEPITO NARANJA  160 CC (18)",
+     "IDRUBRO": 10,
+     "Precio": 202.82504
+    },
+    {
+     "IDPRODUCTO": 1318,
+     "DESCRIPCIO": "TUTTI DZO. 200CC. X 18",
+     "IDRUBRO": 10,
+     "Precio": 258.640041
+    },
+    {
+     "IDPRODUCTO": 1315,
+     "DESCRIPCIO": "TUTTI MULTIF. 200 C.C.",
+     "IDRUBRO": 10,
+     "Precio": 258.640041
+    },
+    {
+     "IDPRODUCTO": 1501,
+     "DESCRIPCIO": "PIPAS GIGANTES 12 U. (12)",
+     "IDRUBRO": 13,
+     "Precio": 4069.919942
+    },
+    {
+     "IDPRODUCTO": 1502,
+     "DESCRIPCIO": "PIPAS TIRAS 10 UN. (35)",
+     "IDRUBRO": 13,
+     "Precio": 1413.979985
+    },
+    {
+     "IDPRODUCTO": 1018,
+     "DESCRIPCIO": "CEREAL  FLOW  ALM \/ MANI \/ MIEL",
+     "IDRUBRO": 14,
+     "Precio": 295.24
+    },
+    {
+     "IDPRODUCTO": 1003,
+     "DESCRIPCIO": "CEREAL  FLOW  ALM.\/CHOC. 30 GR. (20)",
+     "IDRUBRO": 14,
+     "Precio": 295.24
+    },
+    {
+     "IDPRODUCTO": 1010,
+     "DESCRIPCIO": "CEREAL  FLOW  FTLLA.\/YOG.  23 Gr (20)",
+     "IDRUBRO": 14,
+     "Precio": 295.24
+    },
+    {
+     "IDPRODUCTO": 1017,
+     "DESCRIPCIO": "CEREAL  FLOW  FTOS DEL BOSQUE (20)",
+     "IDRUBRO": 14,
+     "Precio": 295.24
+    },
+    {
+     "IDPRODUCTO": 1011,
+     "DESCRIPCIO": "CEREAL  FLOW  MANZ. LIGHT 21 Gr. (20)",
+     "IDRUBRO": 14,
+     "Precio": 295.24
+    },
+    {
+     "IDPRODUCTO": 1016,
+     "DESCRIPCIO": "CEREAL  FLOW CHIPS - ALMENDRA. 23 Gr. (20)",
+     "IDRUBRO": 14,
+     "Precio": 295.24
+    },
+    {
+     "IDPRODUCTO": 1002,
+     "DESCRIPCIO": "CEREAL  FLOW CHOCOLATE. 23 GR. (20)",
+     "IDRUBRO": 14,
+     "Precio": 295.24
+    },
+    {
+     "IDPRODUCTO": 1019,
+     "DESCRIPCIO": "CEREAL FLOW FRUTAS Y ALMENDRAS 23 Gr (20)",
+     "IDRUBRO": 14,
+     "Precio": 295.24
+    },
+    {
+     "IDPRODUCTO": 1026,
+     "DESCRIPCIO": "CEREAL FLOW FTOS D7B Y YUGURT (20)",
+     "IDRUBRO": 14,
+     "Precio": 295.24
+    },
+    {
+     "IDPRODUCTO": 1023,
+     "DESCRIPCIO": "CEREAL FORT FTOS. ROJOS (24)",
+     "IDRUBRO": 14,
+     "Precio": 382.59195700000004
+    },
+    {
+     "IDPRODUCTO": 1022,
+     "DESCRIPCIO": "CEREAL FORT MANZANA (24)",
+     "IDRUBRO": 14,
+     "Precio": 382.59195700000004
+    },
+    {
+     "IDPRODUCTO": 1020,
+     "DESCRIPCIO": "CEREAL FORT TRADICIONAL (24)",
+     "IDRUBRO": 14,
+     "Precio": 382.59195700000004
+    },
+    {
+     "IDPRODUCTO": 1021,
+     "DESCRIPCIO": "CEREAL FORT YOG.\/ANANA (24)",
+     "IDRUBRO": 14,
+     "Precio": 382.59195700000004
+    },
+    {
+     "IDPRODUCTO": 1015,
+     "DESCRIPCIO": "CEREAL MIX  -MAMZANA- 23 Gr. (20)",
+     "IDRUBRO": 14,
+     "Precio": 248.88006000000001
+    },
+    {
+     "IDPRODUCTO": 1014,
+     "DESCRIPCIO": "MANTECOL  26 Gr. (16)",
+     "IDRUBRO": 14,
+     "Precio": 446.88603299999994
+    },
+    {
+     "IDPRODUCTO": 1013,
+     "DESCRIPCIO": "MANTECOL 41 Gr. (12)",
+     "IDRUBRO": 14,
+     "Precio": 661.2399529999999
+    },
+    {
+     "IDPRODUCTO": 1012,
+     "DESCRIPCIO": "MANTECOL 64 Gr (9)",
+     "IDRUBRO": 14,
+     "Precio": 757.803035
+    },
+    {
+     "IDPRODUCTO": 1025,
+     "DESCRIPCIO": "MANTECOL IMPULSO 110G ( 40)",
+     "IDRUBRO": 14,
+     "Precio": 1288.320033
+    },
+    {
+     "IDPRODUCTO": 1004,
+     "DESCRIPCIO": "POSTRE MANI LHERITIER 100 GR (56)",
+     "IDRUBRO": 14,
+     "Precio": 797.208984
+    },
+    {
+     "IDPRODUCTO": 1024,
+     "DESCRIPCIO": "TURRON ALTEZA X 70G. (36)",
+     "IDRUBRO": 14,
+     "Precio": 180.55995099999998
+    },
+    {
+     "IDPRODUCTO": 1001,
+     "DESCRIPCIO": "TURRON MISKY (50)",
+     "IDRUBRO": 14,
+     "Precio": 99.45437700000001
+    },
+    {
+     "IDPRODUCTO": 1602,
+     "DESCRIPCIO": "PILA ENERGIZER AA X 1",
+     "IDRUBRO": 16,
+     "Precio": 752.1910549999999
+    },
+    {
+     "IDPRODUCTO": 1603,
+     "DESCRIPCIO": "PILA ENERGIZER AAA X 1",
+     "IDRUBRO": 16,
+     "Precio": 751.153964
+    },
+    {
+     "IDPRODUCTO": 1601,
+     "DESCRIPCIO": "PILA EVEREADY AA X 4",
+     "IDRUBRO": 16,
+     "Precio": 1310.2799599999998
+    },
+    {
+     "IDPRODUCTO": 1801,
+     "DESCRIPCIO": "PRESERVATIVO PLAYBOY X 3",
+     "IDRUBRO": 17,
+     "Precio": 483.119967
+    },
+    {
+     "IDPRODUCTO": 201,
+     "DESCRIPCIO": "FOCO LED L.F.  7W. (5)",
+     "IDRUBRO": 20,
+     "Precio": 851.5600059999999
+    },
+    {
+     "IDPRODUCTO": 203,
+     "DESCRIPCIO": "FOCO LED L.F. 12W. (5)",
+     "IDRUBRO": 20,
+     "Precio": 1066.279951
+    },
+    {
+     "IDPRODUCTO": 202,
+     "DESCRIPCIO": "FOCO LED L.F. 9W. (5)",
+     "IDRUBRO": 20,
+     "Precio": 858.392029
+    }
+   ]
